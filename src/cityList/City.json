@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Mumbai",
+    "description": "The financial capital of India, known for its bustling streets and iconic Gateway of India."
+  },
+  {
+    "name": "Delhi",
+    "description": "India's capital city with a rich history, featuring historic landmarks like the Red Fort and Qutub Minar."
+  },
+  {
+    "name": "Bangalore",
+    "description": "India's tech hub, also known for its pleasant climate and vibrant nightlife."
+  },
+  {
+    "name": "Chennai",
+    "description": "A coastal city famous for its culture, temples, and Marina Beach."
+  },
+  {
+    "name": "Kolkata",
+    "description": "Known as the 'City of Joy,' it's famous for its literary heritage and cultural festivals."
+  },
+  {
+    "name": "Hyderabad",
+    "description": "Home to the historic Charminar and world-famous Biryani."
+  },
+  {
+    "name": "Pune",
+    "description": "An educational and IT hub known for its pleasant climate and greenery."
+  },
+  {
+    "name": "Jaipur",
+    "description": "The 'Pink City' known for its historic forts, palaces, and vibrant culture."
+  },
+  {
+    "name": "Ahmedabad",
+    "description": "A bustling city with a mix of history and modernity, famous for its textile industry."
+  },
+  {
+    "name": "Lucknow",
+    "description": "The 'City of Nawabs' known for its rich cultural heritage and delicious cuisine."
+  },
+  {
+    "name": "Chandigarh",
+    "description": "A well-planned city known for its modern architecture and beautiful gardens."
+  },
+  {
+    "name": "Kochi",
+    "description": "A port city in Kerala known for its backwaters, seafood, and cultural diversity."
+  },
+  {
+    "name": "Goa",
+    "description": "Famous for its beautiful beaches, vibrant nightlife, and Portuguese heritage."
+  },
+  {
+    "name": "Agra",
+    "description": "Home to the iconic Taj Mahal, one of the seven wonders of the world."
+  },
+  {
+    "name": "Varanasi",
+    "description": "One of the oldest cities in the world, known for its spiritual significance on the banks of the Ganges."
+  },
+  {
+    "name": "Amritsar",
+    "description": "Famous for the Golden Temple, a spiritual and cultural landmark for Sikhs."
+  },
+  {
+    "name": "Bhopal",
+    "description": "Known for its lakes and historic monuments, often referred to as the 'City of Lakes.'"
+  },
+  {
+    "name": "Indore",
+    "description": "A growing city with a blend of history and modernity, known for its street food."
+  },
+  {
+    "name": "Rajkot",
+    "description": "A commercial and industrial center in Gujarat, known for its engineering and auto industries."
+  },
+  {
+    "name": "Jodhpur",
+    "description": "Famous for the majestic Mehrangarh Fort and vibrant blue-painted houses."
+  },
+  {
+    "name": "Nagpur",
+    "description": "The 'Orange City' known for its juicy oranges and cultural diversity."
+  },
+  {
+    "name": "Surat",
+    "description": "A major diamond and textile hub in Gujarat, known for its economic significance."
+  },
+  {
+    "name": "Kanpur",
+    "description": "An industrial city with a rich history and educational institutions."
+  },
+  {
+    "name": "Mysore",
+    "description": "Known for its palaces, silk, and the famous Mysore Dasara festival."
+  },
+  {
+    "name": "Trivandrum",
+    "description": "The capital of Kerala, known for its beaches, historic landmarks, and cultural events."
+  },
+  {
+    "name": "Guwahati",
+    "description": "A gateway to the Northeast, known for its temples, wildlife, and Assamese culture."
+  },
+  {
+    "name": "Visakhapatnam",
+    "description": "A coastal city with beautiful beaches, an industrial port, and historic sites."
+  },
+  {
+    "name": "Ranchi",
+    "description": "The capital of Jharkhand, known for its natural beauty and tribal culture."
+  },
+  {
+    "name": "Bhubaneswar",
+    "description": "The 'Temple City of India,' famous for its historic temples and cultural heritage."
+  }
+]
